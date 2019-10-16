@@ -1,4 +1,4 @@
-###__ERSP 2019 Repository__
+###ERSP 2019 Repository
 
 Repo for 2019 ERSP Julian McAuley Group
 
