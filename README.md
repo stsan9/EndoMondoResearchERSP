@@ -7,3 +7,5 @@ Repo for 2019 ERSP Julian McAuley Group
 [Group Log](https://docs.google.com/document/d/1qZoHvj9kqpAor6jAX4osS41Bw0bYy1Tnu_N-R5BYobI/edit)
 
 [FitRec Dataset](https://sites.google.com/eng.ucsd.edu/fitrec-project/home)
+
+[Helpful Links](https://docs.google.com/document/d/1W_EE0Cf62RlK2AnV5fK5jJbGhfI-W2zM3rzhQiX_eV0/edit)
